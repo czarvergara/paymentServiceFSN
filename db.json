@@ -2,14 +2,6 @@
 	"paymentType": "CASH",
 	"paymentDate": "2022-09-16 00:00:00",
 	"paymentAmount": 3000,
-	"paymentCurrency": "BRL",
-	"notes": "1234 - PGTO - NF: 453",
-	"credCardNumber": 1,
-	"moneyOrderNumber": 1,
-	"moneyOrderDate": "2022-09-20 10:11:59",
-	"customer": "29372000221",
-	"paymentCreator": "integracao_navis_fsn",
-	"payItemGkey": 1,
-	"payItemAmount": 3000,
+	"paymentCurrency": "BRL",	
 	"payItemInvoice": "1234"
 }
